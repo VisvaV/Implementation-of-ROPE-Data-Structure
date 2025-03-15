@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1713041736 source:d:\psg\semester 2\data structures\package\ropedatastructure\main.cpp
+	<iostream>
+	<string>
+	<tuple>
+	"rope.h"
+	"rope.cpp"
+
+1713041779 d:\psg\semester 2\data structures\package\ropedatastructure\rope.h
+	<string>
+
+1713042252 d:\psg\semester 2\data structures\package\ropedatastructure\rope.cpp
+	"rope.h"
+	<iostream>
+	<string>
+	<tuple>
+
